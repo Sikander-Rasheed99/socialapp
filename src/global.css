@@ -1,0 +1,67 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.css-1a3p8mp-MuiStack-root>:not(style)~:not(style) {
+    margin-left: 0 !important;
+}
+
+.css-1r4rbg7 {
+    padding: 16px 16px 16px 0 !important;
+}
+
+.css-hhvo2v-MuiListItem-root {
+    padding-top: 0 !important;
+    padding-left: 0px !important;
+}
+
+.css-46bh2p-MuiCardContent-root {
+    padding: 16px 16px 0px 27px !important;
+}
+
+.css-1rwjz6-MuiCardActions-root {
+    padding: 0px 8px 8px 8px !important;
+}
+
+.css-1012ceb-MuiAvatar-root img {
+    height: 50px !important;
+    object-fit: cover !important;
+    width: 50px !important;
+}
+
+.css-1012ceb-MuiAvatar-root {
+    height: 40px !important;
+    /* object-fit: cover !important; */
+    width: 40px !important;
+}
+
+a{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+@media only screen and (max-width: 991px) {
+    .css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+        padding-left: 6px !important;
+    }
+
+    .css-cveggr-MuiListItemIcon-root {
+        min-width: 25px !important;
+    }
+
+    span {
+        font-size: 13px !important;
+    }
+
+    .css-i4bv87-MuiSvgIcon-root {
+        width: 20px !important;
+        height: 20px !important;
+    }
+
+    .css-1iw8x7s-MuiToolbar-root {
+        padding-left: 9px !important;
+        padding-right: 13px !important;
+    }
+}
